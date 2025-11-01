@@ -3,7 +3,6 @@ import { authContext } from "../../context/AuthContext";
 import userImg from "../../assets/images/doctor-img01.png";
 import MyBookings from "./MyBookings";
 import Profile from "./Profile";
-
 import useGetProfile from "../../hooks/useFetchData";
 import { BASE_URL } from "../../config";
 import Loading from "../../components/Loader/Loading";
